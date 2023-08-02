@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasas Yohan Mihiranga</h1>
 <h3 align="center">An MIS Undergraduate From NSBM Green University.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://github.com/yasasyohan/yasasyohan/blob/main/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasasyohan&label=Profile%20views&color=0e75b6&style=flat" alt="yasasyohan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasasyohan" alt="yasasyohan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yasasyohan" target="blank"><img src="https://img.shields.io/twitter/follow/yasasyohan?logo=twitter&style=for-the-badge" alt="yasasyohan" /></a> </p>
-
 - 🔭 I’m currently working on **Adobe Ps | Adobe Lr | Adobe Ai | C | HTML | PHP | JAVA**
 
 - 🌱 I’m currently learning **Java | PHP | HTML | Dart | Flutter | SQL**
@@ -17,6 +12,11 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **yasasyohan03@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasasyohan" alt="yasasyohan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/yasasyohan" target="blank"><img src="https://img.shields.io/twitter/follow/yasasyohan?logo=twitter&style=for-the-badge" alt="yasasyohan" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
