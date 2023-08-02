@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasas Yohan Mihiranga</h1>
 <h3 align="center">An MIS Undergraduate From NSBM Green University.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/yasasyohan/yasasyohan/blob/main/giphy.gif">
+<img align="right" alt="coding" width="200" src="https://github.com/yasasyohan/yasasyohan/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasasyohan&label=Profile%20views&color=0e75b6&style=flat" alt="yasasyohan" /> </p>
 - 🔭 I’m currently working on **Adobe Ps | Adobe Lr | Adobe Ai | C | HTML | PHP | JAVA**
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **yasasyohan03@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasasyohan" alt="yasasyohan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yasasyohan" target="blank"><img src="https://img.shields.io/twitter/follow/yasasyohan?logo=twitter&style=for-the-badge" alt="yasasyohan" /></a> </p>
 
@@ -31,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasasyohan&show_icons=true&locale=en&layout=compact" alt="yasasyohan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasasyohan&show_icons=true&locale=en" alt="yasasyohan" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasasyohan" alt="yasasyohan" /></a> </p>
+
