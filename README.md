@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yasas Yohan Mihiranga</h1>
 <h3 align="center">An MIS Undergraduate From NSBM Green University.</h3>
-<img align="right" alt="coding" width="200" src="https://github.com/yasasyohan/yasasyohan/blob/main/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/yasasyohan/yasasyohan/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasasyohan&label=Profile%20views&color=0e75b6&style=flat" alt="yasasyohan" /> </p>
+
 - 🔭 I’m currently working on **Adobe Ps | Adobe Lr | Adobe Ai | C | HTML | PHP | JAVA**
 
 - 🌱 I’m currently learning **Java | PHP | HTML | Dart | Flutter | SQL**
 
 - 👯 I’m looking to collaborate on **UI/UX Design | Mobile Application Development | Projects | Hackathons**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Anything related to tech**
 
 - 📫 How to reach me **yasasyohan03@gmail.com**
 
